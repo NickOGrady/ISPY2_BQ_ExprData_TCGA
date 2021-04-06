@@ -183,7 +183,7 @@ server <- function(input, output) {
     output$pvalues = renderTable(ptab, digits = 4)
     
     
-  } # end globdata
-  ) # end globdata
+  } # End globdata
+  ) # End globdata
 } # end server
 
